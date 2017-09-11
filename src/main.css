@@ -1,0 +1,104 @@
+html, body, h1, h2, h3, h4, p, ul, li, div, a{
+	padding: 0;
+	border: 0;
+	margin: 0;
+	font: inherit;
+	font-size: 100%;
+	text-decoration: none;
+}
+
+.header{
+	background-color: grey;
+	padding: 90px auto 90px auto;
+}
+.header h1{
+	padding-top: 30px;
+	font-family: Arial, Garamond,serif;
+	font-size: 70px;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 20px black;
+	color: white;
+}
+
+.header h2{
+	font-family: Arial, Garamond,serif;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+	color: white;
+}
+
+.tagline{
+	margin-top: 0px;
+	background-color: olive;
+	padding: 90px auto 90px auto;
+}
+.tagline h3{
+	padding-top: 30px;
+	font-family: Arial, Garamond,serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.tagline p{
+	padding-bottom: 30px;
+	font-family: Arial, Garamond,serif;
+	font-size: 23px;
+	font-weight: normal;
+	text-align: center;
+}
+
+
+.skills{
+padding-bottom: 30px;
+}
+
+.skills h3{
+	padding-top: 30px;
+	font-family: Arial, Garamond,serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.skills p{
+	padding-bottom: 30px;
+	font-family: Arial, Garamond,serif;
+	font-size: 23px;
+	font-weight: normal;
+	text-align: center;
+}
+
+
+.skills li{
+	font-family: Arial, Garamond,serif;
+	font-size: 30px;
+	font-weight: normal;
+	text-align: center;
+	font-weight: bold;
+}
+
+.contact{
+	background-color: black;
+}
+
+.contact h3{
+	padding-top: 30px;
+	font-family: Arial, Garamond,serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+.contact p{
+	padding-bottom: 30px;
+	font-family: Arial, Garamond,serif;
+	font-size: 22px;
+	font-weight: normal;
+	text-align: center;
+	color: white;
+}
